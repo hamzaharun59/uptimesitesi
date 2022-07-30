@@ -1,0 +1,40 @@
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\botuptime.cf\ajax\libs\jquery\3.5.1\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://botuptime.cf/
+File Name: C:\Downloaded Web Sites\botuptime.cf\index.htm
+Content Type: text/html
+
+Uri: https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\botuptime.cf\npm\bootstrap@5.2.0-beta1\dist\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css
+File Name: C:\Downloaded Web Sites\botuptime.cf\ajax\libs\normalize\5.0.0\normalize.min.css
+Content Type: text/css
+
+Uri: https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css
+File Name: C:\Downloaded Web Sites\botuptime.cf\ionicons\2.0.1\css\ionicons.min.css
+Content Type: text/css
+
+Uri: https://code.ionicframework.com/ionicons/2.0.1/fonts/ionicons.eot?v=2.0.1
+File Name: C:\Downloaded Web Sites\botuptime.cf\ionicons\2.0.1\fonts\ionicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://code.ionicframework.com/ionicons/2.0.1/fonts/ionicons.svg?v=2.0.1
+File Name: C:\Downloaded Web Sites\botuptime.cf\ionicons\2.0.1\fonts\ionicons.svg
+Content Type: image/svg+xml
+
+Uri: https://code.ionicframework.com/ionicons/2.0.1/fonts/ionicons.ttf?v=2.0.1
+File Name: C:\Downloaded Web Sites\botuptime.cf\ionicons\2.0.1\fonts\ionicons.ttf
+Content Type: font/ttf
+
+Uri: https://code.ionicframework.com/ionicons/2.0.1/fonts/ionicons.woff?v=2.0.1
+File Name: C:\Downloaded Web Sites\botuptime.cf\ionicons\2.0.1\fonts\ionicons.woff
+Content Type: font/woff
+
+Uri: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1337351983638452
+File Name: C:\Downloaded Web Sites\botuptime.cf\pagead\js\f.txt
+Content Type: text/javascript
+
